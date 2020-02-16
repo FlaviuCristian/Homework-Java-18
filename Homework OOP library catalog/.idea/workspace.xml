@@ -15,10 +15,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="MainLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="MainLibrary" />
       <module name="Homework OOP library catalog" />
       <method v="2">
@@ -45,13 +47,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580915524778">
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580933147326">
       <screen x="0" y="24" width="1366" height="699" />
     </state>
-    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.699@0.24.1366.699" timestamp="1580915524778" />
-    <state x="415" y="159" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580915523882">
+    <state x="141" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.699@0.24.1366.699" timestamp="1580933147326" />
+    <state x="415" y="159" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580933145373">
       <screen x="0" y="24" width="1366" height="699" />
     </state>
-    <state x="415" y="159" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.24.1366.699@0.24.1366.699" timestamp="1580915523882" />
+    <state x="415" y="159" width="525" height="426" key="#com.intellij.ide.util.TreeClassChooserDialog/0.24.1366.699@0.24.1366.699" timestamp="1580933145373" />
+    <state width="1324" height="163" key="GridCell.Tab.0.bottom" timestamp="1580933149784">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.bottom/0.24.1366.699@0.24.1366.699" timestamp="1580933149784" />
+    <state width="1324" height="163" key="GridCell.Tab.0.center" timestamp="1580933149784">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.center/0.24.1366.699@0.24.1366.699" timestamp="1580933149784" />
+    <state width="1324" height="163" key="GridCell.Tab.0.left" timestamp="1580933149783">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.left/0.24.1366.699@0.24.1366.699" timestamp="1580933149783" />
+    <state width="1324" height="163" key="GridCell.Tab.0.right" timestamp="1580933149784">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.right/0.24.1366.699@0.24.1366.699" timestamp="1580933149784" />
+    <state x="187" y="24" width="982" height="699" key="SettingsEditor" timestamp="1580933111298">
+      <screen x="0" y="24" width="1366" height="699" />
+    </state>
+    <state x="187" y="24" width="982" height="699" key="SettingsEditor/0.24.1366.699@0.24.1366.699" timestamp="1580933111298" />
   </component>
 </project>
