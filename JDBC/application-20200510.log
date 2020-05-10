@@ -1,0 +1,22 @@
+2020-05-10 15:32:02.264 [main] INFO  JDBC.NewDatabase - The database has been created
+2020-05-10 15:32:19.162 [main] INFO  JDBC.NewDatabase - The database already exists
+2020-05-10 15:32:51.202 [main] INFO  JDBC.AccommodationTable - AccommodationTable was created
+2020-05-10 15:33:12.206 [main] INFO  JDBC.RoomFairTable - RoomFairTable was created
+2020-05-10 15:33:37.164 [main] INFO  JDBC.AccommodationToRoomFairRelationTable - AccommodationToRoomFairRelationTable was created
+2020-05-10 15:34:36.035 [main] INFO  JDBC.InsertNewRoom - Room 1 has been added to the database
+2020-05-10 15:34:36.045 [main] INFO  JDBC.InsertNewRoom - Room 2 has been added to the database
+2020-05-10 15:35:01.232 [main] INFO  JDBC.InsertFair - The price for room 1 has been entered in the database
+2020-05-10 15:35:01.237 [main] INFO  JDBC.InsertFair - The price for room 2 has been entered in the database
+2020-05-10 15:35:24.954 [main] INFO  JDBC.InsertRoomFairRelation - Room - Fair relation has been created
+2020-05-10 15:36:14.940 [main] INFO  JDBC.InsertNewRoomTest - The database was successfully queried
+2020-05-10 15:36:14.961 [main] INFO  JDBC.InsertNewRoom - Room 1 has been added to the database
+2020-05-10 15:36:14.962 [main] INFO  JDBC.InsertNewRoom - Room 2 has been added to the database
+2020-05-10 15:37:25.742 [main] INFO  JDBC.NewDatabase - The database already exists
+2020-05-10 15:37:25.813 [main] INFO  JDBC.AccommodationTable - AccommodationTable was created
+2020-05-10 15:37:25.816 [main] INFO  JDBC.RoomFairTable - RoomFairTable was created
+2020-05-10 15:37:25.822 [main] INFO  JDBC.AccommodationToRoomFairRelationTable - AccommodationToRoomFairRelationTable was created
+2020-05-10 15:37:25.823 [main] INFO  JDBC.InsertNewRoom - Room 1 has been added to the database
+2020-05-10 15:37:25.825 [main] INFO  JDBC.InsertNewRoom - Room 2 has been added to the database
+2020-05-10 15:37:25.845 [main] INFO  JDBC.InsertFair - The price for room 1 has been entered in the database
+2020-05-10 15:37:25.846 [main] INFO  JDBC.InsertFair - The price for room 2 has been entered in the database
+2020-05-10 15:37:25.859 [main] INFO  JDBC.InsertRoomFairRelation - Room - Fair relation has been created
