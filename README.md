@@ -1,2 +1,2 @@
-# Homework-Java-18
-Homework Scoala Informala de IT - Curs Java
+Java-18
+Java projects
